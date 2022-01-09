@@ -1,0 +1,1 @@
+Galeri statik sayfa
